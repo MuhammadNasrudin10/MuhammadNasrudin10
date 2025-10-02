@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, Saya Muhammad Nasrudin</h1>
-<h3 align="center">Mahasiswa Pendidikan Komputer, FKIP, ULM🌟.</h3>
 
 <br>
 
